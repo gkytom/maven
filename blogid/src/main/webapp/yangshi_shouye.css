@@ -30,6 +30,112 @@
     line-height:72px ;
     cursor: pointer ;
 }
-.header ul li :hover {
+.header ul li:hover {
     background:#74b0e2 ;
 }
+
+.header ul li.first {     /*导航按钮设置背景色  */
+    margin-left: 30px ;
+    background:#74b0e2 ;
+}
+
+.header .login {
+    float: right ; 
+    color: #fff ;
+    line-height: 72px ;
+    margin-right: 20px ;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* ul li {list-style: none;}
+.banner {
+    height: 380px;
+    background: #ccc;
+    margin-top: 20px;
+    position: relative;
+}
+.banner .content {
+    height: 380px;
+    margin-top: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.banner ul li img {
+    width: 1024px ;
+    height: 380px ;
+}
+
+.banner .content ul{
+    width: 5000px;
+}
+
+
+.btn_left,.btn_right{
+    display: inline-block;
+    width: 21px;
+    height: 150px;
+    background: url(banner_tb.png) no-repeat;
+    position: absolute;
+    left: -38px;
+    top: 90px;
+    opacity: 0;
+}
+
+.btn_right{
+    display: inline-block;
+    width: 21px;
+    height: 150px;
+    background: url(banner_tb.png) no-repeat;
+    background-position: -29px 0;
+    position: absolute;
+    left: 1041px;
+    top: 90px;
+    opacity: 0;
+}
+
+.banner .content:hover .btn_left{
+    opacity: 1;
+}
+
+.banner .content:hover .btn_right{
+    opacity: 1;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
